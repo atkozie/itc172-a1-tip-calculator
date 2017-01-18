@@ -1,0 +1,18 @@
+﻿body {
+    width:40%;
+    margin-left:30%;
+    margin-right:30%;
+}
+* {
+    padding:0;
+    margin:10px auto;
+    text-align:left;
+    float:left;
+}
+.content {
+    padding:20px;
+    background:lightgray;
+}
+h1 {
+    margin:50px;
+}
